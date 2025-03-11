@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Ale\\CursoC#\\conexion-sql-practica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBC6584-E3E0-46ED-BEB9-432CDBA4CE88}|Negocio\\negocio.csproj|e:\\ale\\cursoc#\\conexion-sql-practica\\negocio\\disconegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BBC6584-E3E0-46ED-BEB9-432CDBA4CE88}|Negocio\\negocio.csproj|solutionrelative:negocio\\disconegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBC6584-E3E0-46ED-BEB9-432CDBA4CE88}|Negocio\\negocio.csproj|E:\\Ale\\CursoC#\\conexion-sql-practica\\negocio\\generonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BBC6584-E3E0-46ED-BEB9-432CDBA4CE88}|Negocio\\negocio.csproj|solutionrelative:negocio\\generonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA178987-8401-40A2-AB78-C5B688767761}|Dominio\\dominio.csproj|E:\\Ale\\CursoC#\\conexion-sql-practica\\dominio\\disco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA178987-8401-40A2-AB78-C5B688767761}|Dominio\\dominio.csproj|solutionrelative:dominio\\disco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B10F5AA-9048-4920-89AD-B995D368B8B8}|conexion-sql-practica\\conexion-sql-practica.csproj|E:\\Ale\\CursoC#\\conexion-sql-practica\\conexion-sql-practica\\frmaltadisco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B10F5AA-9048-4920-89AD-B995D368B8B8}|conexion-sql-practica\\conexion-sql-practica.csproj|solutionrelative:conexion-sql-practica\\frmaltadisco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B10F5AA-9048-4920-89AD-B995D368B8B8}|conexion-sql-practica\\conexion-sql-practica.csproj|E:\\Ale\\CursoC#\\conexion-sql-practica\\conexion-sql-practica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B10F5AA-9048-4920-89AD-B995D368B8B8}|conexion-sql-practica\\conexion-sql-practica.csproj|solutionrelative:conexion-sql-practica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B10F5AA-9048-4920-89AD-B995D368B8B8}|conexion-sql-practica\\conexion-sql-practica.csproj|E:\\Ale\\CursoC#\\conexion-sql-practica\\conexion-sql-practica\\frmaltadisco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B10F5AA-9048-4920-89AD-B995D368B8B8}|conexion-sql-practica\\conexion-sql-practica.csproj|solutionrelative:conexion-sql-practica\\frmaltadisco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBC6584-E3E0-46ED-BEB9-432CDBA4CE88}|Negocio\\negocio.csproj|E:\\Ale\\CursoC#\\conexion-sql-practica\\negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BBC6584-E3E0-46ED-BEB9-432CDBA4CE88}|Negocio\\negocio.csproj|solutionrelative:negocio\\accesodatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B10F5AA-9048-4920-89AD-B995D368B8B8}|conexion-sql-practica\\conexion-sql-practica.csproj|E:\\Ale\\CursoC#\\conexion-sql-practica\\conexion-sql-practica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B10F5AA-9048-4920-89AD-B995D368B8B8}|conexion-sql-practica\\conexion-sql-practica.csproj|solutionrelative:conexion-sql-practica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BBC6584-E3E0-46ED-BEB9-432CDBA4CE88}|Negocio\\negocio.csproj|E:\\Ale\\CursoC#\\conexion-sql-practica\\negocio\\edicionnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BBC6584-E3E0-46ED-BEB9-432CDBA4CE88}|Negocio\\negocio.csproj|solutionrelative:negocio\\edicionnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA178987-8401-40A2-AB78-C5B688767761}|Dominio\\dominio.csproj|E:\\Ale\\CursoC#\\conexion-sql-practica\\dominio\\tipoedicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA178987-8401-40A2-AB78-C5B688767761}|Dominio\\dominio.csproj|solutionrelative:dominio\\tipoedicion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmAltaDisco.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Ale\\CursoC#\\conexion-sql-practica\\conexion-sql-practica\\frmAltaDisco.cs",
+              "RelativeDocumentMoniker": "conexion-sql-practica\\frmAltaDisco.cs",
+              "ToolTip": "E:\\Ale\\CursoC#\\conexion-sql-practica\\conexion-sql-practica\\frmAltaDisco.cs [Dise\u00F1o]",
+              "RelativeToolTip": "conexion-sql-practica\\frmAltaDisco.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:53:36.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Ale\\CursoC#\\conexion-sql-practica\\conexion-sql-practica\\Form1.cs",
+              "RelativeDocumentMoniker": "conexion-sql-practica\\Form1.cs",
+              "ToolTip": "E:\\Ale\\CursoC#\\conexion-sql-practica\\conexion-sql-practica\\Form1.cs",
+              "RelativeToolTip": "conexion-sql-practica\\Form1.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAQwEwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T22:14:19.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmAltaDisco.cs",
+              "DocumentMoniker": "E:\\Ale\\CursoC#\\conexion-sql-practica\\conexion-sql-practica\\frmAltaDisco.cs",
+              "RelativeDocumentMoniker": "conexion-sql-practica\\frmAltaDisco.cs",
+              "ToolTip": "E:\\Ale\\CursoC#\\conexion-sql-practica\\conexion-sql-practica\\frmAltaDisco.cs",
+              "RelativeToolTip": "conexion-sql-practica\\frmAltaDisco.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAQwFMAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T18:55:56.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GeneroNegocio.cs",
+              "DocumentMoniker": "E:\\Ale\\CursoC#\\conexion-sql-practica\\Negocio\\GeneroNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\GeneroNegocio.cs",
+              "ToolTip": "E:\\Ale\\CursoC#\\conexion-sql-practica\\Negocio\\GeneroNegocio.cs",
+              "RelativeToolTip": "Negocio\\GeneroNegocio.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T00:25:39.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DiscoNegocio.cs",
+              "DocumentMoniker": "E:\\Ale\\CursoC#\\conexion-sql-practica\\Negocio\\DiscoNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\DiscoNegocio.cs",
+              "ToolTip": "E:\\Ale\\CursoC#\\conexion-sql-practica\\Negocio\\DiscoNegocio.cs",
+              "RelativeToolTip": "Negocio\\DiscoNegocio.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwEwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T22:02:54.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Disco.cs",
+              "DocumentMoniker": "E:\\Ale\\CursoC#\\conexion-sql-practica\\Dominio\\Disco.cs",
+              "RelativeDocumentMoniker": "Dominio\\Disco.cs",
+              "ToolTip": "E:\\Ale\\CursoC#\\conexion-sql-practica\\Dominio\\Disco.cs",
+              "RelativeToolTip": "Dominio\\Disco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T23:56:09.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccesoDatos.cs",
+              "DocumentMoniker": "E:\\Ale\\CursoC#\\conexion-sql-practica\\Negocio\\AccesoDatos.cs",
+              "RelativeDocumentMoniker": "Negocio\\AccesoDatos.cs",
+              "ToolTip": "E:\\Ale\\CursoC#\\conexion-sql-practica\\Negocio\\AccesoDatos.cs",
+              "RelativeToolTip": "Negocio\\AccesoDatos.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T22:29:54.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EdicionNegocio.cs",
+              "DocumentMoniker": "E:\\Ale\\CursoC#\\conexion-sql-practica\\Negocio\\EdicionNegocio.cs",
+              "RelativeDocumentMoniker": "Negocio\\EdicionNegocio.cs",
+              "ToolTip": "E:\\Ale\\CursoC#\\conexion-sql-practica\\Negocio\\EdicionNegocio.cs",
+              "RelativeToolTip": "Negocio\\EdicionNegocio.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T10:02:30.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\Ale\\CursoC#\\conexion-sql-practica\\conexion-sql-practica\\Form1.cs",
+              "RelativeDocumentMoniker": "conexion-sql-practica\\Form1.cs",
+              "ToolTip": "E:\\Ale\\CursoC#\\conexion-sql-practica\\conexion-sql-practica\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "conexion-sql-practica\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T10:20:00.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TipoEdicion.cs",
+              "DocumentMoniker": "E:\\Ale\\CursoC#\\conexion-sql-practica\\Dominio\\TipoEdicion.cs",
+              "RelativeDocumentMoniker": "Dominio\\TipoEdicion.cs",
+              "ToolTip": "E:\\Ale\\CursoC#\\conexion-sql-practica\\Dominio\\TipoEdicion.cs",
+              "RelativeToolTip": "Dominio\\TipoEdicion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T00:21:27.858Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

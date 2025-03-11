@@ -1,0 +1,6 @@
+E:\Ale\CursoC#\conexion-sql-practica\Dominio\bin\Debug\Dominio.dll
+E:\Ale\CursoC#\conexion-sql-practica\Dominio\bin\Debug\Dominio.pdb
+E:\Ale\CursoC#\conexion-sql-practica\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+E:\Ale\CursoC#\conexion-sql-practica\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+E:\Ale\CursoC#\conexion-sql-practica\Dominio\obj\Debug\Dominio.dll
+E:\Ale\CursoC#\conexion-sql-practica\Dominio\obj\Debug\Dominio.pdb

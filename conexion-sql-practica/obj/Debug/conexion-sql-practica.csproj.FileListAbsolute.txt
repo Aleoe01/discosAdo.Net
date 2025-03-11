@@ -1,0 +1,16 @@
+E:\Ale\CursoC#\conexion-sql-practica\conexion-sql-practica\bin\Debug\conexion-sql-practica.exe.config
+E:\Ale\CursoC#\conexion-sql-practica\conexion-sql-practica\bin\Debug\conexion-sql-practica.exe
+E:\Ale\CursoC#\conexion-sql-practica\conexion-sql-practica\bin\Debug\conexion-sql-practica.pdb
+E:\Ale\CursoC#\conexion-sql-practica\conexion-sql-practica\obj\Debug\conexion-sql-practica.csproj.AssemblyReference.cache
+E:\Ale\CursoC#\conexion-sql-practica\conexion-sql-practica\obj\Debug\conexion_sql_practica.Form1.resources
+E:\Ale\CursoC#\conexion-sql-practica\conexion-sql-practica\obj\Debug\conexion_sql_practica.Properties.Resources.resources
+E:\Ale\CursoC#\conexion-sql-practica\conexion-sql-practica\obj\Debug\conexion-sql-practica.csproj.GenerateResource.cache
+E:\Ale\CursoC#\conexion-sql-practica\conexion-sql-practica\obj\Debug\conexion-sql-practica.csproj.CoreCompileInputs.cache
+E:\Ale\CursoC#\conexion-sql-practica\conexion-sql-practica\obj\Debug\conexion-sql-practica.exe
+E:\Ale\CursoC#\conexion-sql-practica\conexion-sql-practica\obj\Debug\conexion-sql-practica.pdb
+E:\Ale\CursoC#\conexion-sql-practica\conexion-sql-practica\bin\Debug\Dominio.dll
+E:\Ale\CursoC#\conexion-sql-practica\conexion-sql-practica\bin\Debug\Negocio.dll
+E:\Ale\CursoC#\conexion-sql-practica\conexion-sql-practica\bin\Debug\Dominio.pdb
+E:\Ale\CursoC#\conexion-sql-practica\conexion-sql-practica\bin\Debug\Negocio.pdb
+E:\Ale\CursoC#\conexion-sql-practica\conexion-sql-practica\obj\Debug\conexion.ACF6F276.Up2Date
+E:\Ale\CursoC#\conexion-sql-practica\conexion-sql-practica\obj\Debug\conexion_sql_practica.frmAltaDisco.resources

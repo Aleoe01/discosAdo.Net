@@ -1,0 +1,9 @@
+E:\Ale\CursoC#\conexion-sql-practica\Negocio\bin\Debug\Negocio.dll
+E:\Ale\CursoC#\conexion-sql-practica\Negocio\bin\Debug\Negocio.pdb
+E:\Ale\CursoC#\conexion-sql-practica\Negocio\bin\Debug\Dominio.dll
+E:\Ale\CursoC#\conexion-sql-practica\Negocio\bin\Debug\Dominio.pdb
+E:\Ale\CursoC#\conexion-sql-practica\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+E:\Ale\CursoC#\conexion-sql-practica\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+E:\Ale\CursoC#\conexion-sql-practica\Negocio\obj\Debug\Negocio.csproj.Up2Date
+E:\Ale\CursoC#\conexion-sql-practica\Negocio\obj\Debug\Negocio.dll
+E:\Ale\CursoC#\conexion-sql-practica\Negocio\obj\Debug\Negocio.pdb
