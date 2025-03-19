@@ -14,3 +14,4 @@ E:\Ale\CursoC#\conexion-sql-practica\conexion-sql-practica\bin\Debug\Dominio.pdb
 E:\Ale\CursoC#\conexion-sql-practica\conexion-sql-practica\bin\Debug\Negocio.pdb
 E:\Ale\CursoC#\conexion-sql-practica\conexion-sql-practica\obj\Debug\conexion.ACF6F276.Up2Date
 E:\Ale\CursoC#\conexion-sql-practica\conexion-sql-practica\obj\Debug\conexion_sql_practica.frmAltaDisco.resources
+E:\Ale\CursoC#\conexion-sql-practica\conexion-sql-practica\obj\Debug\conexion_sql_practica.frmModificarDisco.resources

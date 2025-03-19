@@ -38,6 +38,7 @@ namespace conexion_sql_practica
             {
                 listaDiscos = discoNegocio.listar();                    // el metodo listar devuelve una objeto del tipo list
                 dgvDiscos.DataSource = listaDiscos;                     // dataSource es un metodo de dataGridView que toma un list y lo modela en una tabla
+                dgvDiscos.Columns["id"].Visible = false;
                 dgvDiscos.Columns["UrlImagenTapa"].Visible = false;     // ocultamos la columna
                 cargarImagen(listaDiscos[0].UrlImagenTapa);
             }
@@ -77,6 +78,35 @@ namespace conexion_sql_practica
             frmAltaDisco agregar = new frmAltaDisco();
             agregar.ShowDialog();
             Cargar();
+        }
+
+        private void btnModificar_Click(object sender, EventArgs e)
+        {
+            Disco modificable = (Disco)dgvDiscos.CurrentRow.DataBoundItem;
+            frmModificarDisco modificarDisco = new frmModificarDisco(modificable);
+            modificarDisco.ShowDialog();
+            Cargar();
+        }
+
+        private void btnEliminar_Click(object sender, EventArgs e)
+        {
+            DiscoNegocio discoNegocio = new DiscoNegocio();
+            Disco select;
+
+            try
+            {
+                select = (Disco)dgvDiscos.CurrentRow.DataBoundItem;
+                DialogResult respuesta = MessageBox.Show("Está seguro de eliminar el disco "+ select.Nombre + "?", "ATENCIÓN", MessageBoxButtons.YesNo, MessageBoxIcon.Stop);
+                if (respuesta == DialogResult.Yes)
+                    discoNegocio.eliminar(select.Id);
+
+                Cargar();
+            }
+            catch (Exception err)
+            {
+
+                throw err;
+            }
         }
     }
 }

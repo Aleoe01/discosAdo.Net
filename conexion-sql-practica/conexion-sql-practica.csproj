@@ -58,6 +58,12 @@
     <Compile Include="frmAltaDisco.Designer.cs">
       <DependentUpon>frmAltaDisco.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmModificarDisco.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmModificarDisco.Designer.cs">
+      <DependentUpon>frmModificarDisco.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
@@ -65,6 +71,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="frmAltaDisco.resx">
       <DependentUpon>frmAltaDisco.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmModificarDisco.resx">
+      <DependentUpon>frmModificarDisco.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

@@ -84,6 +84,11 @@ namespace negocio
             }
         }
 
+        public void setearParametro(string nombre, object valor)
+        {
+            comando.Parameters.AddWithValue(nombre, valor);
+        }
+
         // metodo para cerrar la conexion
         public void cerrarLectura()
         {

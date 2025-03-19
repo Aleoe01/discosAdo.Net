@@ -8,6 +8,7 @@ namespace dominio
 {
     public class Disco
     {
+        public int Id { get; set; }
         public string Nombre { get; set; }
         public DateTime FechaLanzamiento { get; set; }
         public int CantidadCanciones { get; set; }
