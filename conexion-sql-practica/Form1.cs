@@ -38,8 +38,7 @@ namespace conexion_sql_practica
             {
                 listaDiscos = discoNegocio.listar();                    // el metodo listar devuelve una objeto del tipo list
                 dgvDiscos.DataSource = listaDiscos;                     // dataSource es un metodo de dataGridView que toma un list y lo modela en una tabla
-                dgvDiscos.Columns["id"].Visible = false;
-                dgvDiscos.Columns["UrlImagenTapa"].Visible = false;     // ocultamos la columna
+                ocultarColumnas();     // ocultamos la columna
                 cargarImagen(listaDiscos[0].UrlImagenTapa);
             }
             catch (Exception err)
@@ -53,9 +52,18 @@ namespace conexion_sql_practica
         {
 
             // cada vez que se cambia la fila seleccionada se ejecuta esta funcion
+            if(dgvDiscos.CurrentRow != null)
+            {
+                Disco seleccion = (Disco)dgvDiscos.CurrentRow.DataBoundItem;
+                cargarImagen(seleccion.UrlImagenTapa); // se carga y muestra la imagen de la row seleccionada
+            }
+            
+        }
 
-            Disco seleccion = (Disco)dgvDiscos.CurrentRow.DataBoundItem;
-            cargarImagen(seleccion.UrlImagenTapa); // se carga y muestra la imagen de la row seleccionada
+        private void ocultarColumnas()
+        {
+            dgvDiscos.Columns["id"].Visible = false;
+            dgvDiscos.Columns["UrlImagenTapa"].Visible = false;
         }
 
         private void cargarImagen(string img)
@@ -107,6 +115,28 @@ namespace conexion_sql_practica
 
                 throw err;
             }
+        }
+
+        private void txbBuscar_TextChanged(object sender, EventArgs e)
+        {
+            
+            List<Disco> listaFiltrada;
+
+            string filtro = txbBuscar.Text;
+
+            if (filtro.Length >= 3)
+            {
+                listaFiltrada = listaDiscos.FindAll(x => x.Nombre.ToUpper().Contains(filtro.ToUpper()));      
+            }
+            else
+            {
+                listaFiltrada = listaDiscos;
+            }
+
+            dgvDiscos.DataSource = null;
+            dgvDiscos.DataSource = listaFiltrada;
+            ocultarColumnas();
+
         }
     }
 }
